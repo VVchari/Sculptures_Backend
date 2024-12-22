@@ -1,0 +1,122 @@
+[
+    {
+        "category": "Granite",
+        "images": [
+            {
+                "name": "Image1",
+                "description": "Description of Granite Image 1",
+                "url": "images/Granite/Image1.jpg"
+            },
+            {
+                "name": "Image2",
+                "description": "Description of Granite Image 2",
+                "url": "images/Granite/Image2.jpg"
+            },
+            {
+                "name": "Image3",
+                "description": "Description of Granite Image 3",
+                "url": "images/Granite/Image3.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Malaya Stone",
+        "images": [
+            {
+                "name": "Image1",
+                "description": "Description of Malaya Stone Image 1",
+                "url": "images/Malaya Stone/Image1.jpg"
+            }
+        ]
+    },
+    {
+        "category": "Mysore Stone",
+        "images": [
+            {
+                "name": "Image1",
+                "description": "Description of Mysore Stone Image 1",
+                "url": "images/Mysore Stone/Image1.jpg"
+            },
+            {
+                "name": "Image2",
+                "description": "Description of Mysore Stone Image 2",
+                "url": "images/Mysore Stone/Image2.jpg"
+            },
+            {
+                "name": "Image3",
+                "description": "Description of Mysore Stone Image 3",
+                "url": "images/Mysore Stone/Image3.jpg"
+            },
+            {
+                "name": "Image4",
+                "description": "Description of Mysore Stone Image 4",
+                "url": "images/Mysore Stone/Image4.jpg"
+            },
+            {
+                "name": "Image5",
+                "description": "Description of Mysore Stone Image 5",
+                "url": "images/Mysore Stone/Image5.jpg"
+            },
+            {
+                "name": "Image6",
+                "description": "Description of Mysore Stone Image 6",
+                "url": "images/Mysore Stone/Image6.jpg"
+            },
+            {
+                "name": "Image7",
+                "description": "Description of Mysore Stone Image 7",
+                "url": "images/Mysore Stone/Image7.jpg"
+            },
+            {
+                "name": "Image8",
+                "description": "Description of Mysore Stone Image 8",
+                "url": "images/Mysore Stone/Image8.jpg"
+            },
+            {
+                "name": "Image9",
+                "description": "Description of Mysore Stone Image 9",
+                "url": "images/Mysore Stone/Image9.jpg"
+            },
+            {
+                "name": "Image10",
+                "description": "Description of Mysore Stone Image 10",
+                "url": "images/Mysore Stone/Image10.jpg"
+            }
+        ]
+    },
+    {
+        "category":"Pesarayi",
+        "images": [
+            {
+                "name": "Image1",
+                "description": "Description of Pesarayi Image 1",
+                "url":"images/Pesarayi/Image1.jpg"
+            },
+            {
+                "name": "Image2",
+                "description": "Description of Pesarayi Image 2",
+                "url":"images/Pesarayi/Image2.jpg"
+            },
+            {
+                "name": "Image3",
+                "description": "Description of Pesarayi Image 3",
+                "url":"images/Pesarayi/Image3.jpg"
+            },
+            {
+                "name": "Image4",
+                "description": "Description of Pesarayi Image 4",
+                "url":"images/Pesarayi/Image4.jpg"
+            },
+            {
+                "name": "Image5",
+                "description": "Description of Pesarayi Image 5",
+                "url":"images/Pesarayi/Image5.jpg"
+            },
+            {
+                "name": "Image6",
+                "description": "Description of Pesarayi Image 6",
+                "url":"images/Pesarayi/Image6.jpg"
+            }
+        ]
+    }
+]
